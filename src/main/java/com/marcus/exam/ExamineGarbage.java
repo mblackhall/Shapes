@@ -10,14 +10,14 @@ public class ExamineGarbage {
 
     }
 
-
     @Override
     protected void finalize() throws Throwable {
         super.finalize();
-        System.out.println("I have been garbage colected");
+        System.out.println("I am going to be garbage colected");
 
 
     }
+
 
 
 }
