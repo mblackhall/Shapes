@@ -11,6 +11,7 @@ public class LookAtRuntime {
 
         Runtime rt = Runtime.getRuntime();
 
+
         System.out.println("Total JVM memory: "
                 + rt.totalMemory());
         System.out.println("Before Free Memory = "

@@ -12,8 +12,6 @@ package com.marcus.checkassetions;
 public class ShowAssertionTypes {
 
 
-
-
     private double calcAverage1(int total, int no) {
 
         // will only say that it is an Assertion error
